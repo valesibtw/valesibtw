@@ -12,7 +12,7 @@ I enjoy building systems from the ground up, understanding how things work under
 
 <p align="left">
   <a href="https://github.com/valesibtw">
-    <img src="https://img.shields.io/badge/GitHub-SEU_USER-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/valesibtw-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
